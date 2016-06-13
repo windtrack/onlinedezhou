@@ -1,0 +1,173 @@
+/home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/obj/local/armeabi-v7a/objs/ijksdl/ijksdl_vout.o: \
+ /home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_vout.c \
+ /home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_vout.h \
+ /home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_stdinc.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h \
+ /home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_class.h \
+ /home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_mutex.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/pthread.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/time.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/time.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/types.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/stddef.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/compiler.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/types.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/types.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/time.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/siginfo.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/signal.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/limits.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/limits.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/limits.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/internal_types.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/limits.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/syslimits.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/page.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/string.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/malloc.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/signal.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/ucontext.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/user.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sched.h \
+ /home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_video.h \
+ /home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_fourcc.h \
+ /home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_endian.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/endian.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/endian.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/endian.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/assert.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/native_window_jni.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/native_window.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/rect.h \
+ /home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/jni.h
+
+/home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_vout.h:
+
+/home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_stdinc.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h:
+
+/home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_class.h:
+
+/home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_mutex.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/pthread.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/time.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/time.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/types.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/stddef.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/compiler.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/types.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/types.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/kernel.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/time.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/siginfo.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/signal.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/limits.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/limits.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/limits.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/internal_types.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/limits.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/syslimits.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/page.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/string.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/malloc.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/signal.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/ucontext.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/user.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sched.h:
+
+/home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_video.h:
+
+/home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_fourcc.h:
+
+/home/zhwp/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijksdl/ijksdl_endian.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/endian.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/endian.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/endian.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/assert.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/native_window_jni.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/native_window.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/rect.h:
+
+/home/zhwp/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/jni.h:

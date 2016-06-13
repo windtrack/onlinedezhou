@@ -1,0 +1,21 @@
+#include "ui/CocosGUI.h"
+#include "cocostudio/CocoStudio.h"
+#include "cocostudio/CCArmatureDataManager.h"
+#include "cocostudio/CCArmature.h"
+#include "cocostudio/CCArmatureAnimation.h"
+
+#include "ui/UIButton.h"
+#include "ui/UIImageView.h"
+#include "ui/UICheckBox.h"
+#include "ui/UILayout.h"
+#include "ui/UITextBMFont.h"
+#include "ui/UIText.h"
+#include "ui/UIScrollView.h"
+#include "ui/UIPageView.h"
+#include "ui/UILoadingBar.h"
+#include "ui/UISlider.h"
+#include "ui/UIEditBox/UIEditBox.h"
+#include "ui/UIScale9Sprite.h"
+#include "CCScrollView.h"
+using namespace ui;
+using namespace cocostudio;

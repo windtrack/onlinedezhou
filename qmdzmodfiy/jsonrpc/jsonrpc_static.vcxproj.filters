@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\json">
+      <UniqueIdentifier>{5a436c94-c241-4ab4-9c57-96ec680fc391}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\connectors">
+      <UniqueIdentifier>{2be6c9f4-10a5-409f-b250-b371949c3821}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="json\json_internalarray.inl">
+      <Filter>源文件\json</Filter>
+    </None>
+    <None Include="json\json_internalmap.inl">
+      <Filter>源文件\json</Filter>
+    </None>
+    <None Include="json\json_valueiterator.inl">
+      <Filter>源文件\json</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="abstractauthenticator.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="abstractrequesthandler.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="client.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="clientconnector.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="errors.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="exception.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="json\autolink.h">
+      <Filter>源文件\json</Filter>
+    </ClInclude>
+    <ClInclude Include="json\config.h">
+      <Filter>源文件\json</Filter>
+    </ClInclude>
+    <ClInclude Include="json\features.h">
+      <Filter>源文件\json</Filter>
+    </ClInclude>
+    <ClInclude Include="json\forwards.h">
+      <Filter>源文件\json</Filter>
+    </ClInclude>
+    <ClInclude Include="json\json.h">
+      <Filter>源文件\json</Filter>
+    </ClInclude>
+    <ClInclude Include="json\json_batchallocator.h">
+      <Filter>源文件\json</Filter>
+    </ClInclude>
+    <ClInclude Include="json\reader.h">
+      <Filter>源文件\json</Filter>
+    </ClInclude>
+    <ClInclude Include="json\value.h">
+      <Filter>源文件\json</Filter>
+    </ClInclude>
+    <ClInclude Include="json\writer.h">
+      <Filter>源文件\json</Filter>
+    </ClInclude>
+    <ClInclude Include="connectors\httpclient.h">
+      <Filter>源文件\connectors</Filter>
+    </ClInclude>
+    <ClInclude Include="connectors\httpserver.h">
+      <Filter>源文件\connectors</Filter>
+    </ClInclude>
+    <ClInclude Include="connectors\mongoose.h">
+      <Filter>源文件\connectors</Filter>
+    </ClInclude>
+    <ClInclude Include="procedure.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rpc.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rpcprotocolclient.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rpcprotocolserver.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="server.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="serverconnector.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="specification.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="specificationparser.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="specificationwriter.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="client.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="clientconnector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="errors.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exception.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="json\json_reader.cpp">
+      <Filter>源文件\json</Filter>
+    </ClCompile>
+    <ClCompile Include="json\json_value.cpp">
+      <Filter>源文件\json</Filter>
+    </ClCompile>
+    <ClCompile Include="json\json_writer.cpp">
+      <Filter>源文件\json</Filter>
+    </ClCompile>
+    <ClCompile Include="connectors\httpclient.cpp">
+      <Filter>源文件\connectors</Filter>
+    </ClCompile>
+    <ClCompile Include="connectors\httpserver.cpp">
+      <Filter>源文件\connectors</Filter>
+    </ClCompile>
+    <ClCompile Include="connectors\mongoose.c">
+      <Filter>源文件\connectors</Filter>
+    </ClCompile>
+    <ClCompile Include="procedure.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rpcprotocolclient.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rpcprotocolserver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="server.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="serverconnector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="specificationparser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="specificationwriter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

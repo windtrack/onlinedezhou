@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<newbieguide>
+	<intable>
+		<step id="1" type="1" desc="click me now 1" cmdType="1" >
+			<data>{"smallBlind":"4","voiceid":"2","dataTime":"433457623855780980","handCard":[61,40],"id":"","maxPlayer":"5","name":"","anti":"0","bigBlind":"4","cid":"0","cmds":[],"scences":[{"gameid":"433457623855780980","handCard":[],"id":"237037","poolArr":[0,0],"publicCard":[],"time":"1439279506525","type":"0","vailidplayer":[{"action":0,"bet":0,"cash":497,"cid":0,"icon":"defaulticon_nv.png","id":200807141,"name":"xchen63414","voiceid":2},{"action":0,"bet":0,"cash":460,"cid":1,"icon":"defaulticon_nv.png","id":200807081,"name":"Games","voiceid":1},{"action":0,"bet":0,"cash":480,"cid":3,"icon":"defaulticon_nv.png","id":200807085,"name":"Tina","voiceid":2}]}],"cmds":[{"cid":"3","cmd":"501","data":{"allPool":[120,0],"bankerCh":0,"cardData":[7,10,49,50,61,40],"gameUser":[0,1,3],"smallBlindPos":0,"publicCardData":[5,29,8,24,43]},"gameid":"522886621855781037","id":"2589824","time":"1439368924372","uid":"200807085"}]}</data>
+		</step>
+		<step id="2" type="2" desc="click me" opteBtns="弃牌,跟40,加注" cmdType="1" >
+			<data>{"smallBlind":"4","voiceid":"1","dataTime":"433457623855780980","handCard":[61,40],"id":"","maxPlayer":"5","name":"","anti":"0","bigBlind":"4","cid":"0","scences":[{"gameid":"","handCard":[],"id":"237037","poolArr":[0,0],"publicCard":[],"time":"1439368933372","type":"0","vailidplayer":[{"action":0,"bet":0,"cash":497,"cid":0,"icon":"defaulticon_nv.png","id":200807141,"name":"xchen63414","voiceid":1},{"action":0,"bet":0,"cash":460,"cid":1,"icon":"defaulticon_nv.png","id":200807081,"name":"Games","voiceid":1},{"action":0,"bet":0,"cash":480,"cid":3,"icon":"defaulticon_nv.png","id":200807085,"name":"Tina","voiceid":2}]}],"cmds":[{"cid":"0","cmd":"501","data":{"allPool":[0,0],"bankerCh":1,"cardData":[7,10,49,50,17,43],"gameUser":[0,1,3],"smallBlindPos":0,"publicCardData":[]},"gameid":"522886621855781037","id":"2589824","time":"1439368933372","uid":"200807085"},{"cid":"0","cmd":"513","data":{"acountMoney":100744688,"addMoney":457,"allPool":[0,0],"betCh":0,"betJettonNum":40,"betType":1,"cid":0,"curMaxAdd":392,"curMinAdd":392,"ifTurnOver":false,"mBalanceScore":404,"mangTag":0,"nextChairId":3,"sendCardTurnCount":0},"gameid":"522886621855781037","id":"2589828","time":"1439368933352","uid":"0"}]}</data>
+		</step>
+		<step id="3" type="1" desc="click me now 2" cmdType="2" >
+			<data>{"cmds":[{"cid":"0","cmd":"513","data":{"acountMoney":100744688,"addMoney":457,"allPool":[80,80],"betCh":0,"betJettonNum":40,"betType":1,"cid":0,"ifTurnOver":false,"nextChairId":3}},]}</data>
+		</step>
+		<step id="4" type="1" desc="click me now 2" cmdType="2" >
+			<data>{"cmds":[{"cid":"3","cmd":"513","data":{"addMoney":440,"allPool":[0,0],"betCh":3,"betJettonNum":40,"betType":1,"cid":0,"ifTurnOver":false,"nextChairId":1}},]}</data>
+		</step>
+		<step id="5" type="1" desc="click me now 2" cmdType="2" >
+			<data>{"cmds":[{"cid":"1","cmd":"513","data":{"addMoney":460,"allPool":[80,80],"betCh":1,"betJettonNum":0,"betType":4,"mangTag":100,"cid":0,"ifTurnOver":true,"cardData":[3,9,1],"nextChairId":0}}]}</data>
+		</step>
+		<step id="6" type="3" desc="xxxxxx" tipBtns="同花,顺子,对子" cmdType="2">
+			<data>{"cmds":[{"cid":"3","cmd":"513","data":{"addMoney":440,"allPool":[80,80],"betCh":3,"betJettonNum":0,"betType":4,"cid":0,"ifTurnOver":false,"nextChairId":1}}]}</data>
+		</step>
+		<step id="7" type="3" desc="xxxxxx" tipBtns="同花,顺子,对子" cmdType="2">
+			<data>{"cmds":[{"cid":"1","cmd":"513","data":{"addMoney":460,"allPool":[80,80],"betCh":1,"betJettonNum":0,"betType":4,"mangTag":100,"cid":0,"ifTurnOver":false,"nextChairId":0}}]}</data>
+		</step>
+		<step id="8" type="3" desc="xxxxxx" tipBtns="同花,顺子,对子" cmdType="2">
+			<data>{"cmds":[{"cid":"0","cmd":"513","data":{"addMoney":457,"allPool":[180,0],"betCh":0,"betJettonNum":0,"betType":4,"cid":0,"ifTurnOver":true,"cardData":[27],"nextChairId":3}}]}</data>
+		</step>
+		<step id="9" type="3" desc="xxxxxx" tipBtns="同花,顺子,对子" cmdType="2">
+			<data>{"cmds":[{"cid":"1","cmd":"513","data":{"addMoney":390,"allPool":[180,180],"betCh":3,"betJettonNum":50,"betType":2,"mangTag":100,"cid":0,"ifTurnOver":false,"nextChairId":0}},]}</data>
+		</step>
+		<step id="10" type="3" desc="xxxxxx" tipBtns="同花,顺子,对子" cmdType="2">
+			<data>{"cmds":[{"cid":"2","cmd":"514","data":{"giveUpCh":1,"nextChairId":0}}]}</data>
+		</step>
+		<step id="11" type="3" desc="xxxxxx" tipBtns="同花,顺子,对子" cmdType="2">
+			<data>{"cmds":[{"cid":"0","cmd":"513","data":{"addMoney":407,"allPool":[180,180],"betCh":0,"betJettonNum":50,"betType":1,"cid":0,"ifTurnOver":true,"mangTag":100,"cardData":[11],"nextChairId":3}},]}</data>
+		</step>
+		<step id="12" type="3" desc="xxxxxx" tipBtns="同花,顺子,对子" cmdType="2">
+			<data>{"cmds":[{"cid":"0","cmd":"513","data":{"addMoney":340,"allPool":[180,180],"betCh":3,"betJettonNum":50,"betType":2,"cid":0,"ifTurnOver":false,"mangTag":100,"nextChairId":0}}]}</data>
+		</step>
+		<step id="13" type="3" desc="xxxxxx" tipBtns="同花,顺子,对子" cmdType="2">
+			<data>{"cmds":[{"cid":"0","cmd":"513","data":{"addMoney":0,"allPool":[407,0],"betCh":0,"betJettonNum":407,"betType":3,"ifTurnOver":false,"mangTag":100,"nextChairId":0}},{"cid":"1","cmd":"513","data":{"addMoney":0,"allPool":[977,977],"betCh":3,"betJettonNum":340,"betType":3,"ifTurnOver":false,"mangTag":100,"nextChairId":0}}]}</data>
+		</step>
+		<step id="14" type="3" desc="xxxxxx" tipBtns="同花,顺子,对子" cmdType="2">
+			<data>{"cmds":[{"cid":"0","cmd":"507","data":{"acountMoney":919760,"addMoney":977,"allPool":[977,977],"betCh":0,"betJettonNum":0,"betType":100,"cardData":[17,43,7,10,49,50],"ifNormalEnd":1,"poolsMoney":[{"gameUserCHairs":[0],"id":0},{"gameUserCHairs":[0],"id":3}],"showCardUser":[0,3],"showEveryBetMoney":[0,0,0,0,0,0,0,0,0],"showWinLoseMoney":[480,0,0,0,0,0,0,0,0],"sound":0,"winMaxChairs":[0],"winMaxType":7},"gameid":"522886621855781037","id":"2589829","time":"1439368935069","uid":"0"}]}</data>
+		</step>
+		<step id="15" type="3" desc="xxxxxx" tipBtns="同花,顺子,对子" cmdType="2">
+			<data>{"cmds":[{"cid":"1","cmd":"513","data":{"addMoney":977,"allPool":[0,0],"betCh":0,"betJettonNum":0,"betType":101,"ifTurnOver":false,"mangTag":100,"nextChairId":0}}]}</data>
+		</step>
+	</intable>
+</newbieguide>

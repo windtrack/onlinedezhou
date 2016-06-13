@@ -1,0 +1,641 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\IO">
+      <UniqueIdentifier>{13d7fc0c-6972-47e5-a4cc-2afecafdf5b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View">
+      <UniqueIdentifier>{94dcaa03-7611-470f-802a-23e2f7183180}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\base">
+      <UniqueIdentifier>{fa86df67-42e4-4cd0-a6dd-b3cb2fcac293}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\hall">
+      <UniqueIdentifier>{c7fb51d6-1ef0-46a8-b11b-e3bd84828c5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\login">
+      <UniqueIdentifier>{59fd9fe2-2a90-49bb-b806-9368529ad063}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\table">
+      <UniqueIdentifier>{2c1b3f00-4ab8-4dfc-a838-8408dd5068d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\vipcustom">
+      <UniqueIdentifier>{bec76791-fff8-4243-b56d-bc69ece866c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Common">
+      <UniqueIdentifier>{f2950a66-3438-4846-844b-da96ae4c9bde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\manage">
+      <UniqueIdentifier>{20505ff8-170c-4b89-83b2-00743943ecd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\View\family">
+      <UniqueIdentifier>{0b08a4f9-1bd4-45a6-9167-bcbfdad90f24}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameFrame.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameCommon.cpp">
+      <Filter>src\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameMessageIO.cpp">
+      <Filter>src\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameSocket.cpp">
+      <Filter>src\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GlobalUserData.cpp">
+      <Filter>src\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RoomMessageIO.cpp">
+      <Filter>src\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RpcRoutine.cpp">
+      <Filter>src\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameDialog.cpp">
+      <Filter>src\View\base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameTipLayer.cpp">
+      <Filter>src\View\base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ShowLabelInLineSequence.cpp">
+      <Filter>src\View\base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AchievementUi.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DeZhouMagnate.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameAbout.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameActivity.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameFriendList.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameRecord.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameRecordList.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameSet.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MessageList.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MobileBind.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\OpenUpVip.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PersonalInfomation.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PrivilegesRewards.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RankList.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TaskSet.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UserInfo.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AccountLogin.cpp">
+      <Filter>src\View\login</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LogonLayerEx.cpp">
+      <Filter>src\View\login</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QuickLogonDlg.cpp">
+      <Filter>src\View\login</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RegisterView.cpp">
+      <Filter>src\View\login</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ResetPassword.cpp">
+      <Filter>src\View\login</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ActionBar.cpp">
+      <Filter>src\View\table</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Card.cpp">
+      <Filter>src\View\table</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ChatBox.cpp">
+      <Filter>src\View\table</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Delaer.cpp">
+      <Filter>src\View\table</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DoorMenu.cpp">
+      <Filter>src\View\table</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Jetton.cpp">
+      <Filter>src\View\table</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QuickFollowList.cpp">
+      <Filter>src\View\table</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QuickInviteList.cpp">
+      <Filter>src\View\table</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QuickMissionList.cpp">
+      <Filter>src\View\table</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QuickShop.cpp">
+      <Filter>src\View\table</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UserView.cpp">
+      <Filter>src\View\table</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SelfDefinition.cpp">
+      <Filter>src\View\vipcustom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\VipDefineRoom.cpp">
+      <Filter>src\View\vipcustom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BuyAndPay.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DailySign.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameHall.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameHall2.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameLoading.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameMall.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameTable.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameTablePlayer.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\WinningRanking.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\VipPrivateNormal.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TextTip.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RewardDrawingAni.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AnimateViewer.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseButton.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FrameSprite.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FrameSpriteButton.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameLogic.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GrabKeyboard.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GrabTouch.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HitTouchGrabLayer.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HttpDownloader.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HttpSprite.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LineLabel.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MenuItemFrameSprite.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MenuItemSpriteWithLabel.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PlatformSpec.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TextureNumber.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Util.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LogoLayer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LoadManager.cpp">
+      <Filter>src\manage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AnimationManager.cpp">
+      <Filter>src\manage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameData.cpp">
+      <Filter>src\manage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Tools.cpp">
+      <Filter>src\manage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\VideoPlay.cpp">
+      <Filter>src\View\table</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CustomerServices.cpp">
+      <Filter>src\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameHelp.cpp">
+      <Filter>src\View\hall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ChangeViceShaikh.cpp">
+      <Filter>src\View\family</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ChooseFamilyIcon.cpp">
+      <Filter>src\View\family</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ContributionRankList.cpp">
+      <Filter>src\View\family</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\EditFamilyRole.cpp">
+      <Filter>src\View\family</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameFamily.cpp">
+      <Filter>src\View\family</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\InviteFriends.cpp">
+      <Filter>src\View\family</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MobileCheck.cpp">
+      <Filter>src\View\family</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MyFamily.cpp">
+      <Filter>src\View\family</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ShowFamily.cpp">
+      <Filter>src\View\family</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DealApplyFamily.cpp">
+      <Filter>src\View\family</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FamilyInfoTips.cpp">
+      <Filter>src\View\family</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CfgReader.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameFrame.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameCommon.h">
+      <Filter>src\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameMessageIO.h">
+      <Filter>src\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameSocket.h">
+      <Filter>src\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GlobalUserData.h">
+      <Filter>src\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RoomMessageIO.h">
+      <Filter>src\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RpcRoutine.h">
+      <Filter>src\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameDialog.h">
+      <Filter>src\View\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameTipLayer.h">
+      <Filter>src\View\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ShowLabelInLineSequence.h">
+      <Filter>src\View\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AchievementUi.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DeZhouMagnate.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameAbout.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameActivity.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameFriendList.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameRecord.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameRecordList.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameSet.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MessageList.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MobileBind.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\OpenUpVip.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PersonalInfomation.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PrivilegesRewards.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RankList.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TaskSet.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UserInfo.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AccountLogin.h">
+      <Filter>src\View\login</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LogonLayerEx.h">
+      <Filter>src\View\login</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QuickLogonDlg.h">
+      <Filter>src\View\login</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RegisterView.h">
+      <Filter>src\View\login</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ResetPassword.h">
+      <Filter>src\View\login</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ActionBar.h">
+      <Filter>src\View\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Card.h">
+      <Filter>src\View\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ChatBox.h">
+      <Filter>src\View\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Delaer.h">
+      <Filter>src\View\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DoorMenu.h">
+      <Filter>src\View\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Jetton.h">
+      <Filter>src\View\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QuickFollowList.h">
+      <Filter>src\View\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QuickInviteList.h">
+      <Filter>src\View\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QuickMissionList.h">
+      <Filter>src\View\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QuickShop.h">
+      <Filter>src\View\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UserView.h">
+      <Filter>src\View\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SelfDefinition.h">
+      <Filter>src\View\vipcustom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\VipDefineRoom.h">
+      <Filter>src\View\vipcustom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BuyAndPay.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DailySign.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameHall.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameHall2.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameLoading.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameMall.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameTable.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameTablePlayer.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\WinningRanking.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\VipPrivateNormal.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TextTip.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RewardDrawingAni.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AnimateViewer.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseButton.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ChairViewConvertor.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FrameSprite.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FrameSpriteButton.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameLogic.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GrabKeyboard.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GrabTouch.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HitTouchGrabLayer.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HttpDownloader.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HttpSprite.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\JsonValueAdapter.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LineLabel.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MenuItemFrameSprite.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MenuItemSpriteWithLabel.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PlatformSpec.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RadioGroup.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ScopeGuard.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SyncDeque.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TextureNumber.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Util.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LogoLayer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LoadManager.h">
+      <Filter>src\manage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AnimationManager.h">
+      <Filter>src\manage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameData.h">
+      <Filter>src\manage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Tools.h">
+      <Filter>src\manage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UICommon.h">
+      <Filter>src\manage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\VideoPlay.h">
+      <Filter>src\View\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CustomerServices.h">
+      <Filter>src\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameHelp.h">
+      <Filter>src\View\hall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ChangeViceShaikh.h">
+      <Filter>src\View\family</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ChooseFamilyIcon.h">
+      <Filter>src\View\family</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ContributionRankList.h">
+      <Filter>src\View\family</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\EditFamilyRole.h">
+      <Filter>src\View\family</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameFamily.h">
+      <Filter>src\View\family</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\InviteFriends.h">
+      <Filter>src\View\family</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MobileCheck.h">
+      <Filter>src\View\family</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MyFamily.h">
+      <Filter>src\View\family</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ShowFamily.h">
+      <Filter>src\View\family</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DealApplyFamily.h">
+      <Filter>src\View\family</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FamilyInfoTips.h">
+      <Filter>src\View\family</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CfgReader.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

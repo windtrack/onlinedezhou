@@ -1,0 +1,23 @@
+E:\code\qmdzmodfiy\3rd\alipay_lib\gen\com\alipay\android\app\sdk\R.java \
+ : E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable\dialog_button_colorlist.xml \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable\dialog_button_submit.xml \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable\refresh_button.xml \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable-hdpi\dialog_bg_click.9.png \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable-hdpi\dialog_bg_normal.9.png \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable-hdpi\dialog_cut_line.png \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable-hdpi\dialog_split_h.png \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable-hdpi\dialog_split_v.png \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable-hdpi\popup_bg.9.png \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable-hdpi\refresh.9.png \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable-hdpi\refresh_push.9.png \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable-hdpi\title.png \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\drawable-hdpi\title_background.9.png \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\layout\alipay.xml \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\layout\alipay_title.xml \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\layout\dialog_alert.xml \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\values\colorlist.xml \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\values\strings.xml \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\values\styles.xml \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\values-v11\styles.xml \
+E:\code\qmdzmodfiy\3rd\alipay_lib\res\values-v14\styles.xml \
+E:\code\qmdzmodfiy\3rd\alipay_lib\bin\AndroidManifest.xml \
